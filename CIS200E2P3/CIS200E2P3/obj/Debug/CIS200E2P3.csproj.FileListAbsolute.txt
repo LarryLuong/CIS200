@@ -1,0 +1,10 @@
+D:\Users\larry\Documents\CIS 200\CIS200E2P3\CIS200E2P3\bin\Debug\CIS200E2P3.exe.config
+D:\Users\larry\Documents\CIS 200\CIS200E2P3\CIS200E2P3\bin\Debug\CIS200E2P3.exe
+D:\Users\larry\Documents\CIS 200\CIS200E2P3\CIS200E2P3\bin\Debug\CIS200E2P3.pdb
+D:\Users\larry\Documents\CIS 200\CIS200E2P3\CIS200E2P3\obj\Debug\CIS200E2P3.csproj.AssemblyReference.cache
+D:\Users\larry\Documents\CIS 200\CIS200E2P3\CIS200E2P3\obj\Debug\CIS200E2P3.Form1.resources
+D:\Users\larry\Documents\CIS 200\CIS200E2P3\CIS200E2P3\obj\Debug\CIS200E2P3.Properties.Resources.resources
+D:\Users\larry\Documents\CIS 200\CIS200E2P3\CIS200E2P3\obj\Debug\CIS200E2P3.csproj.GenerateResource.cache
+D:\Users\larry\Documents\CIS 200\CIS200E2P3\CIS200E2P3\obj\Debug\CIS200E2P3.csproj.CoreCompileInputs.cache
+D:\Users\larry\Documents\CIS 200\CIS200E2P3\CIS200E2P3\obj\Debug\CIS200E2P3.exe
+D:\Users\larry\Documents\CIS 200\CIS200E2P3\CIS200E2P3\obj\Debug\CIS200E2P3.pdb
